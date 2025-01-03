@@ -1,13 +1,3 @@
-<Style>
-.layout {
-  width: 100%;
-
-  display: flex;
-  gap: 16px;
-}
-</Style>
-
-
 <b><i><h1>Yupesi</h1><i/></b>
 IMAGE HERE 
 
